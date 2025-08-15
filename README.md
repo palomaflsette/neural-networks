@@ -36,7 +36,7 @@ Na pasta `grad` é possível encontrar todos os arquivos utilizados nas aulas pr
 
 ## Lista 1 - Classificação
 
-A primeira lista de exercícios contempla o uso de Redes Neurais para um problema de Classificação de padrões. A pasta `grad/lista_1` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
+A primeira lista de exercícios contempla o uso de Redes Neurais para um problema de Classificação de padrões. A pasta `graduacao/lista_1` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
 
 ## Lista 2 - Previsão de séries temporais
 
@@ -44,20 +44,20 @@ A segunda lista de exercícios contempla o uso de Redes Neurais para um problema
 
 # Pós-Graduação
 
-Na pasta `pos_grad` é possível encontrar todos os arquivos utilizados nas aulas práticas da disciplina da graduação.
+Na pasta `pos_graduacao` é possível encontrar todos os arquivos utilizados nas aulas práticas da disciplina da graduação.
 
 ## PG Lista 1 - Classificação
 
-A primeira lista de exercícios contempla o uso de Redes Neurais para um problema de Classificação de padrões. A pasta `pos_grad/lista_1` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
+A primeira lista de exercícios contempla o uso de Redes Neurais para um problema de Classificação de padrões. A pasta `pos_graduacao/lista_1` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
 
 ## PG Lista 2 - Previsão de séries temporais
 
-A segunda lista de exercícios contempla o uso de Redes Neurais para um problema de previsão de séries temporais univariada. A pasta `pos_grad/lista_2` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
+A segunda lista de exercícios contempla o uso de Redes Neurais para um problema de previsão de séries temporais univariada. A pasta `pos_graduacao/lista_2` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
 
 ## PG Lista 3 - Mapa de Kohonen
 
-A terceira lista de exercícios contempla o uso de um tipo especial de Redes Neurais, chamado Mapa de Kohonen. A pasta `pos_grad/lista_3` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
+A terceira lista de exercícios contempla o uso de um tipo especial de Redes Neurais, chamado Mapa de Kohonen. A pasta `pos_graduacao/lista_3` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
 
 ## PG Lista 4 - ESN
 
-A quarta lista de exercícios contempla o uso de um tipo especial de Redes Neurais, chamado Echo State Network, utilizado para modelar dinâmica de sistemas. A pasta `pos_grad/lista_4` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
+A quarta lista de exercícios contempla o uso de um tipo especial de Redes Neurais, chamado Echo State Network, utilizado para modelar dinâmica de sistemas. A pasta `pos_graduacao/lista_4` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
